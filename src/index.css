@@ -1,0 +1,15 @@
+body{
+    padding: 20px;
+}
+
+button{
+    padding: 10px;
+    margin: 10px;
+    background-color: #f1f1f1;
+    border: none;
+    cursor: pointer;
+}
+
+li.list-group-item.d-flex.justify-content-between.item-done {
+    text-decoration: line-through;
+}
